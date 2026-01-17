@@ -17,6 +17,13 @@ This project was created to practice **DOM manipulation, event handling, and bas
 
 ---
 
+## ▶️ Live Demo
+
+🔗 **Live Game:**  
+https://MAJL-77.github.io/rock-paper-scissors
+
+---
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
