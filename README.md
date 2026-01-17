@@ -16,11 +16,9 @@ This project was created to practice **DOM manipulation, event handling, and bas
 - Beginner-friendly, clean code structure
 
 ---
+## Live Demo
+https://MAJL-77.github.io/rock-paper-scissors/
 
-## ▶️ Live Demo
-
-🔗 **Live Game:**  
-https://MAJL-77.github.io/rock-paper-scissors
 
 ---
 
